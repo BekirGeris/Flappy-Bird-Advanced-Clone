@@ -1,6 +1,6 @@
 # Flappy-Bird-Advanced-Clone
-An advanced flappy bird-like android game has been developed using the LibGdx library.
-                                      GAME VISUALS
+An advanced flappy bird-like android game has been developed using the LibGdx library.\n
+GAME VISUALS
 ![alt text](https://play-lh.googleusercontent.com/z2ZA-f8DcgAE1WivFFenheH8I-eSkyIaBO_0ROaSKwFXvG1MfIutcvwIRvM7eOv8da0=w1366-h695-rw)
 ![alt text](https://play-lh.googleusercontent.com/izkj9opOzJExmGbXqB2XeMMjQsqUC3tFjBDNQCVZ4WZsrpUC_rcoW8Hp8EvOWsW5SA=w1366-h695-rw)
 ![alt text](https://play-lh.googleusercontent.com/t9zzmDatlrPplv_JJlRKysRKvXyZDjbSV2HIA8HTBhnlHqbKP03o1sRq97O025WraA=w1366-h695-rw)
